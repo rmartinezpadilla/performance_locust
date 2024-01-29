@@ -11,7 +11,7 @@
         2.1. Valida tu instalación
              locust -V
 
-# Ejecutar prueba por terminal
+# Ejecutar pruebaß
     - locust -f test/test_2.py --host https://reqres.in --users 50 --spawn-rate 25
 # Ver reportes
     - Abrir http://localhost:8089
