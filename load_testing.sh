@@ -1,0 +1,1 @@
+locust -f test/test_2.py --host https://reqres.in --users 50 --spawn-rate 25
